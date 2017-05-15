@@ -1,0 +1,16 @@
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\AccessoriesStock.exe.config
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\AccessoriesStock.exe
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\AccessoriesStock.pdb
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.csprojResolveAssemblyReference.cache
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.Form1.resources
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.Properties.Resources.resources
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.csproj.GenerateResource.Cache
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.exe
+c:\users\vamsi\documents\visual studio 2013\Projects\AccessoriesStock\AccessoriesStock\obj\Debug\AccessoriesStock.pdb
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\Vamsi\Documents\Visual Studio 2013\Projects\AccessoriesStock\AccessoriesStock\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
